@@ -13,3 +13,54 @@ $main-color: #945eae;
   color: $main-color
  }
 }
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+.materiales{
+  margin-top: 100px;
+}
+
+.material{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 100px;
+  img{
+    margin: 25px;
+    min-width: 40%;
+  }
+  div{
+    margin: 25px;
+    h1{
+      text-align: center;
+    }
+  }
+}
+
+.inverso{
+  flex-direction: row-reverse;
+}
+
+
+.precio{
+  background-color: #7ae37a;
+  padding: 5px 10px;
+  border-radius: 55px;
+  color: white;
+  font-weight: 600;
+}
+
+@media(max-width:'600px'){
+  .material{
+    flex-direction: column;
+    img{
+      max-width: 100%;
+    }
+  }
+  .inverso{
+    flex-direction: column;
+  }
+}

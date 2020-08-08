@@ -5,9 +5,11 @@
 </div>
 
 <h2>Contacto</h2>
-<p>Para más información contactame a psicologiaprendemos@gmail.com o en mi instragram @psicoaprendemos<p>
+<p>Para realizar la compra escribime a psicologiaprendemos@gmail.com<p>
+ <p> También me podes encontrar en instagram o facebook como @psicoaprendemos<p>
 
 
+<h2>Material</h2>
 <div class="materiales">
     <div class="material">
         <img src="images/EMOCIONES NIÑOS.jpg">

@@ -8,3 +8,4 @@
 ### **MATERIALES**
 
  - Tarjetas - ¿Cómo se sintió?
+<img src="images/ADOLES.jpg">

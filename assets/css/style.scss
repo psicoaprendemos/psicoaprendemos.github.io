@@ -30,7 +30,7 @@ $main-color: #945eae;
   margin-bottom: 100px;
   img{
     margin: 25px;
-    min-width: 40%;
+    width: 40%;
   }
   div{
     margin: 25px;
@@ -57,7 +57,7 @@ $main-color: #945eae;
   .material{
     flex-direction: column;
     img{
-      max-width: 100%;
+      width: 80%;
     }
   }
   .inverso{

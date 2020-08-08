@@ -5,6 +5,6 @@
 # Florencia Blanco
 ## Lic. en Psicología - MN 69354
 
-*PUTA* 
-**PUTITA**
-**__TROLA Y GATA__**
+###**MATERIALES**
+
+-**pack 1**

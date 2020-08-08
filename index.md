@@ -9,7 +9,12 @@
         <img src="images/EMOCIONES NIÑOS.jpg">
         <div>
             <h1>Tarjetas emociones para niños</h1>
-            <p>Logra encontrar las emociones escondidas en tus pacientes, sus mas oscuros secretos y la posibilidad o no de que mate a su esposa en las proximas 48 horas</p>
+            <ul>
+                <li>asdasdasdasd</li>
+                <li>asdsdajiosdjaiosjd</li>
+                <li>50 imagebes</li>
+            </ul>
+            <p>COmpralas ya!</p>
             <div class="center">
                 <div class="precio">$300 / USD5</div> 
             </div>

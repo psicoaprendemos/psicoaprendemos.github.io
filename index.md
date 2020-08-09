@@ -9,6 +9,7 @@
     
 <h2>Contacto</h2>
 <p>Para realizar la compra escribime a psicologiaprendemos@gmail.com y comentame el material que quisieras.<p>
+  <p>Medios de pago: transferencia bancaria o  <a href="https://paypal.me/psicoaprendemos?locale.x=es_XC">PayPal</a>.<p>  
  <p> También me podes encontrar en instagram y facebook como @psicoaprendemos<p>
 
 <h2>Materiales</h2>

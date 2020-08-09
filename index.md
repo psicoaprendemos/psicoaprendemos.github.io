@@ -11,7 +11,7 @@
 <h2>Métodos de pago</h2>
 <p>Para realizar la compra escribime a <strong>psicologiaprendemos@gmail.com</strong>, comentame el material que quisieras y te envio los datos.<p>
   <p>Medios de pago: transferencia bancaria o  <a href="https://paypal.me/psicoaprendemos?locale.x=es_XC">PayPal</a>.<p>  
- <p>También me podes encontrar en instagram y facebook como @psicoaprendemos<p>
+ <p>También me podes encontrar en instagram y facebook como <strong>@psicoaprendemos</strong><p>
    <p>Teléfono: (011) 1534475697<p> 
 
 <h2>Materiales</h2>

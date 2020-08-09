@@ -19,7 +19,7 @@
             <p> Constan de imágenes y ejemplos de diversas emociones donde se pregunta: ¿Qué emoción siente el niño/la niña? ¿Qué crees que le ha pasado? </p>
             <p> Se envian en 3 formatos para que uses el más cómodo y lo imprimas en el tamaño que desees. </p>
             <div class="center">
-                <div class="precio">$250 / USD 8</div> 
+                <div class="precio">$250 / USD 7</div> 
             </div>
         </div>
     </div>
@@ -30,9 +30,9 @@
             <p> 40 tarjetas para trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
             <p> Excelentes para psicoeducación, para sesiones lúdicas y distendias, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta conversaciones familiares. </p>
             <p> Son diversos ejemplos de temáticas típicas de la adolescencia donde se pregunta ¿Cómo se sintío ...? </p>
-            <p> Se envian en 3 formatos  para que uses el más cómodo y lo imprimas en el tamaño que desees. </p>
+            <p> Se envian en 3 formatos para que uses el más cómodo y lo imprimas en el tamaño que desees. </p>
             <div class="center">
-              <div class="precio">$290</div> 
+              <div class="precio">$290/ USD 8</div> 
             </div>
         </div>
     </div>
@@ -43,17 +43,20 @@
             <p> 40 tarjetas para trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
             <p> Excelentes para psicoeducación, para sesiones lúdicas y distendias, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta conversaciones familiares.</p>
             <p> Son diversos ejemplos de temáticas típicas de la adultez donde se pregunta ¿Cómo se sintío ...? </p>
-            <p> Se envian en 3 formatos  para que uses el más cómodo y lo imprimas en el tamaño que desees. </p>
+            <p> Se envian en 3 formatos para que uses el más cómodo y lo imprimas en el tamaño que desees. </p>
             <div class="center">
-                <div class="precio">$250 / USD 8</div> 
+                <div class="precio">$290 / USD 8</div> 
             </div>
         </div>
     </div>
     <div class="material inverso">
-        <img src="images/ADOLES.jpg">
+        <img src="images/QUE HARIAS NIÑOS.jpg">
         <div>
-            <h3>Tarjetas emociones adultos</h3>
-            <p>Logra encontrar las emociones escondidas en tus pacientes, sus mas oscuros secretos y la posibilidad o no de que mate a su esposa en las proximas 48 horas</p>
+            <h3>Tarjetas ¿Qué harías si ...?</h3>
+            <p>40 tarjetas para trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
+            <p> Excelentes para psicoeducación, para sesiones lúdicas y distendias, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta conversaciones familiares.</p>
+            <p> Son diversos ejemplos de temáticas típicas de la niñez donde se pregunta ¿Cómo se sintío ...? </p>
+            <p> Se envian en 3 formatos para que uses el más cómodo y lo imprimas en el tamaño que desees. </p>
             <div class="center">
               <div class="precio">$1500</div> 
             </div>

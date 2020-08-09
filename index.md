@@ -10,7 +10,6 @@
 <h2>Contacto</h2>
 <p>Para realizar la compra escribime a psicologiaprendemos@gmail.com y comentame el material que quisieras.<p>
  <p> También me podes encontrar en instagram y facebook como @psicoaprendemos<p>
-<p> Atiendo en consultorio privado a niños y adolescentes. Caba, Argentina.<p>
 
 <h2>Materiales</h2>
 <div class="materiales">

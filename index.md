@@ -63,22 +63,26 @@
         </div>
     </div>
     <div class="material">
-        <img src="images/EMOCIONES NIÑOS.jpg">
+        <img src="images/COGNI NIÑOS.jpg">
         <div>
-            <h3>Tarjetas emociones para niños</h3>
-            <p> 50 tarjetas para trabajar conciencia, educación y regulación emocional + implicación en situaciones. </p>
+            <h3>Tarjetas Distorsiones cognitivas para niños/adolescentes</h3>
+            <p> 28 tarjetas para trabajar psicoeducación de las distorsiones cognitivas o errores del pensamiento. </p>
+            <p> Exponen una explicación teórica breve adaptada para niños/adolescentes de 14 distorsiones cognitivas + 2 ejemplos en forma de "globo de pensamiento" de cada una. </p>
+            <p> Se envian en 3 formatos para que uses el más cómodo y lo imprimas en el tamaño que desees. </p>
             <div class="center">
-                <div class="precio">$250 / USD 8</div> 
+                <div class="precio">$290 / USD 8</div> 
             </div>
         </div>
     </div>
     <div class="material inverso">
-        <img src="images/ADOLES.jpg">
+        <img src="images/COGNI ADULTOS.jpg">
         <div>
-            <h3>Tarjetas emociones adultos</h3>
-            <p>Logra encontrar las emociones escondidas en tus pacientes, sus mas oscuros secretos y la posibilidad o no de que mate a su esposa en las proximas 48 horas</p>
+            <h3>Tarjetas Distorsiones cognitivas adolescentes/adultos</h3>
+            <p>42 tarjetas para trabajar psicoeducación de las distorsiones cognitivas o errores del pensamiento.</p>
+            <p> Exponen una explicación teórica breve adaptada para adolescentes/adultos de 14 distorsiones cognitivas + 2 ejemplos en forma de "globo de pensamiento" de cada una. </p>
+            <p> Se envian en 3 formatos para que uses el más cómodo y lo imprimas en el tamaño que desees. </p>
             <div class="center">
-              <div class="precio">$1500</div> 
+              <div class="precio">$300 / USD 8</div> 
             </div>
         </div>
     </div>

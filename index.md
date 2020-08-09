@@ -4,13 +4,15 @@
     <img src="https://instagram.faep4-1.fna.fbcdn.net/v/t51.2885-19/s320x320/103625243_725817748227458_4394321882451694663_n.jpg?_nc_ht=instagram.faep4-1.fna.fbcdn.net&_nc_ohc=VuSwou6KSwwAX83TDvd&oh=5eca09218e35d6b5c50b421ee1017fba&oe=5F59CCA3">
 </div>
 <h2>¿Quién soy?</h2>
-<p>Mi nombre es Florencia Blanco, soy Lic. en Psicología y estudiante del profesorado de educación primaria. Soy amante del mundo infantil y lo lúdico, por eso uní mis ganas, conocimiento y un poco de creatividad para crear estos materiales.<p>
-<p> Atiendo en consultorio privado a niños y adolescentes. Caba, Argentina.<p>
+<p>Mi nombre es Florencia Blanco, soy Lic. en Psicología y estudiante del profesorado de educación primaria.<p>
+ <p>Soy amante del mundo infantil y lo lúdico, por eso uní mis ganas, conocimiento y un poco de creatividad para crear estos materiales.<p>
+<p>Atiendo en consultorio privado a niños y adolescentes y también trabajo en escuelas. Caba, Argentina.<p>
     
 <h2>Métodos de pago</h2>
-<p>Para realizar la compra escribime a <strong>psicologiaprendemos@gmail.com</strong> y comentame el material que quisieras.<p>
+<p>Para realizar la compra escribime a <strong>psicologiaprendemos@gmail.com</strong>, comentame el material que quisieras y te envio los datos.<p>
   <p>Medios de pago: transferencia bancaria o  <a href="https://paypal.me/psicoaprendemos?locale.x=es_XC">PayPal</a>.<p>  
- <p> También me podes encontrar en instagram y facebook como @psicoaprendemos<p>
+ <p>También me podes encontrar en instagram y facebook como @psicoaprendemos<p>
+   <p>Teléfono: (011) 1534475697<p> 
 
 <h2>Materiales</h2>
 <div class="materiales">

@@ -14,8 +14,7 @@
  <p>También me podes encontrar en instagram y facebook como <strong>@psicoaprendemos</strong><p>
    <p>Teléfono: (011) 1534475697<p> 
 
-<h2>Materiales</h2>
-<div class="materiales">
+<h1>Materiales</h1><div class="materiales">
     <div class="material">
         <img src="images/EMOCIONES NIÑOS.jpg">
         <div>

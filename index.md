@@ -5,7 +5,7 @@
 </div>
 
 <h2>Contacto</h2>
-<p>Para realizar la compra escribime a psicologiaprendemos@gmail.com comentandome el material que quisieras<p>
+<p>Para realizar la compra escribime a psicologiaprendemos@gmail.com y comentandome el material que quisieras<p>
  <p> También me podes encontrar en instagram y facebook como @psicoaprendemos<p>
 
 
@@ -24,7 +24,7 @@
         </div>
     </div>
     <div class="material inverso">
-        <img src="images/ADOLES.jpg">
+        <img src="images/COMO SE SINTIO ADO.jpg">
         <div>
             <h3>Tarjetas emociones adultos</h3>
             <p>Logra encontrar las emociones escondidas en tus pacientes, sus mas oscuros secretos y la posibilidad o no de que mate a su esposa en las proximas 48 horas</p>

@@ -4,8 +4,7 @@
     <img src="https://instagram.faep4-1.fna.fbcdn.net/v/t51.2885-19/s320x320/103625243_725817748227458_4394321882451694663_n.jpg?_nc_ht=instagram.faep4-1.fna.fbcdn.net&_nc_ohc=VuSwou6KSwwAX83TDvd&oh=5eca09218e35d6b5c50b421ee1017fba&oe=5F59CCA3">
 </div>
 <h2>¿Quién soy?</h2>
-<p>Mi nombre es Florencia Blanco, soy Lic. en Psicología y estudiante del profesorado de educación primaria.<p>
- <p>Soy amante del mundo infantil y lo lúdico, por eso uní mis ganas, conocimiento y un poco de creatividad para crear estos materiales.<p>
+<p>Mi nombre es Florencia Blanco, soy Lic. en Psicología y estudiante del profesorado de educación primaria. Soy amante del mundo infantil y lo lúdico, por eso uní mis ganas, conocimiento y un poco de creatividad para crear estos materiales que espero te gusten y les des mucha utilidad.<p>
 <p>Atiendo en consultorio privado a niños y adolescentes y también trabajo en escuelas. Caba, Argentina.<p>
     
 <h2>Métodos de pago</h2>

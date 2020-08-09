@@ -37,10 +37,13 @@
         </div>
     </div>
     <div class="material">
-        <img src="images/EMOCIONES NIÑOS.jpg">
+        <img src="images/COMO SE SINTIO ADU.jpg">
         <div>
-            <h3>Tarjetas emociones para niños</h3>
-            <p> 50 tarjetas para trabajar conciencia, educación y regulación emocional + implicación en situaciones. </p>
+            <h3>Tarjetas ¿Cómo se sintió? para adultos</h3>
+            <p> 40 tarjetas para trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
+            <p> Excelentes para psicoeducación, para sesiones lúdicas y distendias, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta conversaciones familiares.</p>
+            <p> Son diversos ejemplos de temáticas típicas de la adultez donde se pregunta ¿Cómo se sintío ...? </p>
+            <p> Se envian en 3 formatos  para que uses el más cómodo y lo imprimas en el tamaño que desees. </p>
             <div class="center">
                 <div class="precio">$250 / USD 8</div> 
             </div>

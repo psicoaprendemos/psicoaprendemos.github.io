@@ -4,10 +4,10 @@
     <img src="https://instagram.faep4-1.fna.fbcdn.net/v/t51.2885-19/s320x320/103625243_725817748227458_4394321882451694663_n.jpg?_nc_ht=instagram.faep4-1.fna.fbcdn.net&_nc_ohc=VuSwou6KSwwAX83TDvd&oh=5eca09218e35d6b5c50b421ee1017fba&oe=5F59CCA3">
 </div>
 <h2>¿Quién soy?</h2>
-<p>Mi nombre es Florencia Blanco, soy Lic. en Psicología y estudiante del profesorado de educación primaria. Soy amante del mundo infantil y lo lúdico. por eso uní mis ganas, conocimiento y un poco de creatividad para crear estos materiales.<p>
+<p>Mi nombre es Florencia Blanco, soy Lic. en Psicología y estudiante del profesorado de educación primaria. Soy amante del mundo infantil y lo lúdico, por eso uní mis ganas, conocimiento y un poco de creatividad para crear estos materiales.<p>
 <p> Atiendo en consultorio privado a niños y adolescentes. Caba, Argentina.<p>
     
-<h2>Contacto</h2>
+<h2>Métodos de pago</h2>
 <p>Para realizar la compra escribime a <strong>psicologiaprendemos@gmail.com</strong> y comentame el material que quisieras.<p>
   <p>Medios de pago: transferencia bancaria o  <a href="https://paypal.me/psicoaprendemos?locale.x=es_XC">PayPal</a>.<p>  
  <p> También me podes encontrar en instagram y facebook como @psicoaprendemos<p>
@@ -22,7 +22,7 @@
             <p> Constan de imágenes y ejemplos de diversas emociones donde se pregunta: ¿Qué emoción siente el niño/la niña? ¿Qué crees que le ha pasado? </p>
             <p> Se envian en 3 formatos para que uses el que te sea más cómodo y lo imprimas en el tamaño que desees. </p>
             <div class="center">
-                <div class="precio">$250 / USD 7</div> 
+                <div class="precio">$300 / USD 7</div> 
             </div>
         </div>
     </div>
@@ -35,7 +35,7 @@
             <p> Son diversos ejemplos de temáticas típicas de la adolescencia donde se pregunta ¿Cómo se sintío ...? determinada persona en cierta situación. </p>
             <p> Se envian en 3 formatos para que uses el que te sea más cómodo y lo imprimas en el tamaño que desees. </p>
             <div class="center">
-              <div class="precio">$290/ USD 8</div> 
+              <div class="precio">$250/ USD 6</div> 
             </div>
         </div>
     </div>
@@ -48,7 +48,7 @@
             <p> Son diversos ejemplos de temáticas típicas de la adultez donde se pregunta ¿Cómo se sintío ...? determinada persona en cierta situación.</p>
             <p> Se envian en 3 formatos para que uses el más cómodo y lo imprimas en el tamaño que desees. </p>
             <div class="center">
-                <div class="precio">$290 / USD 8</div> 
+                <div class="precio">$250 / USD 6</div> 
             </div>
         </div>
     </div>
@@ -61,7 +61,7 @@
             <p> Son diversos ejemplos de temáticas típicas de la niñez donde se pregunta ¿Cómo se sintío ...? determinada persona en cierta situación. </p>
             <p> Se envian en 3 formatos para que uses el que te sea más cómodo y lo imprimas en el tamaño que desees. </p>
             <div class="center">
-              <div class="precio">$290 / USD 8</div> 
+              <div class="precio">$250 / USD 6</div> 
             </div>
         </div>
     </div>
@@ -73,7 +73,7 @@
             <p> Exponen una explicación teórica breve adaptada para niños/adolescentes de 14 distorsiones cognitivas + 2 ejemplos en forma de "globo de pensamiento" de cada una. </p>
             <p> Se envian en 3 formatos para que uses el que te sea más cómodo y lo imprimas en el tamaño que desees. </p>
             <div class="center">
-                <div class="precio">$290 / USD 8</div> 
+                <div class="precio">$300 / USD 7</div> 
             </div>
         </div>
     </div>
@@ -85,11 +85,14 @@
             <p> Exponen una explicación teórica breve adaptada para adolescentes/adultos de 14 distorsiones cognitivas + 2 ejemplos en forma de "globo de pensamiento" de cada una. </p>
             <p> Se envian en 3 formatos para que uses el que te sea más cómodo y lo imprimas en el tamaño que desees. </p>
             <div class="center">
-              <div class="precio">$300 / USD 8</div> 
+              <div class="precio">$300 / USD 7</div> 
             </div>
         </div>
     </div>
-    
+    <p><strong> Hay promos y descuentos comprando varios materiales.</strong></p>
+    <p> "Distorsiones cognitivos" niños/adolescentes + "Distorsiones cognitivas" adolescentes/adultos = $550 / USD 13 </p>
+    <p> "Distorsiones cognitivos" niños/adolescentes + "¿Qué harías si ..? para niños = $500 / USD 12 </p>
+    <p> "¿Qué harías si? para niños + ¿Cómo se sintió? para adolescentes + ¿Cómo se sintio? para adultos = $690 / USD 16 </p>
 
 </div>
 

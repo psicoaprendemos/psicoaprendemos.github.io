@@ -91,8 +91,8 @@
     </div>
     <p><strong> Hay promos y descuentos comprando varios materiales.</strong></p>
     <p> "Distorsiones cognitivos" niños/adolescentes + "Distorsiones cognitivas" adolescentes/adultos = $550 / USD 13 </p>
-    <p> "Distorsiones cognitivos" niños/adolescentes + "¿Qué harías si ..? para niños = $500 / USD 12 </p>
-    <p> "¿Qué harías si? para niños + ¿Cómo se sintió? para adolescentes + ¿Cómo se sintio? para adultos = $690 / USD 16 </p>
+    <p> "Distorsiones cognitivos" niños/adolescentes + "¿Qué harías si ..?" para niños = $500 / USD 12 </p>
+    <p> "¿Qué harías si?" para niños + "¿Cómo se sintió?" para adolescentes + "¿Cómo se sintio?" para adultos = $690 / USD 16 </p>
 
 </div>
 

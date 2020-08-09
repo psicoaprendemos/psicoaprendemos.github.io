@@ -5,8 +5,8 @@
 </div>
 
 <h2>Contacto</h2>
-<p>Para realizar la compra escribime a psicologiaprendemos@gmail.com<p>
- <p> También me podes encontrar en instagram o facebook como @psicoaprendemos<p>
+<p>Para realizar la compra escribime a psicologiaprendemos@gmail.com comentandome el material que quisieras<p>
+ <p> También me podes encontrar en instagram y facebook como @psicoaprendemos<p>
 
 
 <h2>Materiales</h2>
@@ -15,7 +15,9 @@
         <img src="images/EMOCIONES NIÑOS.jpg">
         <div>
             <h3>Tarjetas emociones para niños</h3>
-            <p> 50 tarjetas para trabajar conciencia, educación y regulación emocional + implicación en situaciones. </p>
+            <p> 50 tarjetas para trabajar conciencia, psicoeducación y regulación emocional + implicación en situaciones + creatividad. </p>
+            <p> Se envian en 3 formatos distintos para que uses el más cómodo y lo imprimas en el tamaño que desees. </p>
+            <p> Constan de imágenes ilustradas de diversas emociones donde en cada una se pregunta: ¿Qué emoción siente el niño/la niña? ¿Qué crees que le ha pasado? </p>
             <div class="center">
                 <div class="precio">$250 / USD 8</div> 
             </div>

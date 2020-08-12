@@ -21,7 +21,7 @@
             <h3>Tarjetas "¿Cómo se sintió?" para adolescentes</h3>
             <p> 40 tarjetas con frases de situaciones de la vida cotidiana en tercera persona. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
             <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares. </p>
-            <p> Son diversos de temáticas típicas de la adolescencia donde se pregunta ¿Cómo se sintío ...? determinada persona frente a cierto evento. </p>
+            <p> Son ejemplos de temáticas de la adolescencia donde se pregunta ¿Cómo se sintío ...? determinada persona frente a cierto evento. </p>
             <p> Se envían en formato pdf. </p>
             <div class="center">
               <div class="precio">$250/ USD 6</div> 
@@ -34,7 +34,7 @@
             <h3>Tarjetas "¿Cómo se sintió?" para adultos</h3>
             <p> 40 tarjetas de situaciones de la vida cotidiana en tercera persona. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
             <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares.</p>
-            <p> Son ejemplos de temáticas típicas de la adultez donde se pregunta ¿Cómo se sintío ...? determinada persona frente a cierto evento.</p>
+            <p> Son ejemplos de temáticas de la adultez donde se pregunta ¿Cómo se sintío ...? determinada persona frente a cierto evento.</p>
             <p> Se envían en formato pdf. </p>
             <div class="center">
                 <div class="precio">$250 / USD 6</div> 
@@ -54,9 +54,7 @@
         </div>
     </div>
     <p><strong> Hay promos y descuentos comprando varios materiales.</strong></p>
-    <p> "Distorsiones cognitivos" niños/adolescentes + "Distorsiones cognitivas" adolescentes/adultos = $550 / USD 13 </p>
-    <p> "Distorsiones cognitivos" niños/adolescentes + "¿Qué harías si ..?" para niños = $500 / USD 12 </p>
-    <p> "¿Qué harías si?" para niños + "¿Cómo se sintió?" para adolescentes + "¿Cómo se sintio?" para adultos = $690 / USD 16 </p>
+    <p> "¿Cómo se sintió?" para niños + "¿Cómo se sintió?" para adolescentes + "¿Cómo se sintio?" para adultos = $690 / USD 16 </p>
 
 </div>
 

@@ -15,18 +15,6 @@
    <p>Teléfono: (011) 1534475697<p> 
 
 <h1>Materiales</h1><div class="materiales">
-    <div class="material">
-        <img src="images/EMOCIONES NIÑOS.jpg">
-        <div>
-            <h3>Tarjetas "emociones" para niños</h3>
-            <p> 50 tarjetas para trabajar conciencia, psicoeducación y regulación emocional + implicación en situaciones + creatividad. </p>
-            <p> Constan de imágenes y ejemplos de diversas emociones donde se pregunta: ¿Qué emoción siente el niño/la niña? ¿Qué crees que le ha pasado? </p>
-            <p> Se envian en 3 formatos para que uses el que te sea más cómodo y lo imprimas en el tamaño que desees. </p>
-            <div class="center">
-                <div class="precio">$300 / USD 7</div> 
-            </div>
-        </div>
-    </div>
     <div class="material inverso">
         <img src="images/COMO SE SINTIO ADO.jpg">
         <div>
@@ -34,7 +22,7 @@
             <p> 40 tarjetas para trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
             <p> Excelentes para psicoeducación, para sesiones lúdicas y distendias, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares. </p>
             <p> Son diversos ejemplos de temáticas típicas de la adolescencia donde se pregunta ¿Cómo se sintío ...? determinada persona en cierta situación. </p>
-            <p> Se envian en 3 formatos para que uses el que te sea más cómodo y lo imprimas en el tamaño que desees. </p>
+            <p> Se envían en formato pdf. </p>
             <div class="center">
               <div class="precio">$250/ USD 6</div> 
             </div>
@@ -47,44 +35,19 @@
             <p> 40 tarjetas para trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
             <p> Excelentes para psicoeducación, para sesiones lúdicas y distendias, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares.</p>
             <p> Son diversos ejemplos de temáticas típicas de la adultez donde se pregunta ¿Cómo se sintío ...? determinada persona en cierta situación.</p>
-            <p> Se envian en 3 formatos para que uses el más cómodo y lo imprimas en el tamaño que desees. </p>
+            <p> Se envían en formato pdf. </p>
             <div class="center">
                 <div class="precio">$250 / USD 6</div> 
             </div>
         </div>
     </div>
-    <div class="material inverso">
-        <img src="images/QUE HARIAS NIÑOS.jpg">
-        <div>
-            <h3>Tarjetas "¿Qué harías si ...?" para niños</h3>
-            <p> 40 tarjetas para trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
-            <p> Excelentes para psicoeducación, para sesiones lúdicas y distendias, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares.</p>
-            <p> Son diversos ejemplos de temáticas típicas de la niñez donde se pregunta ¿Cómo se sintío ...? determinada persona en cierta situación. </p>
-            <p> Se envian en 3 formatos para que uses el que te sea más cómodo y lo imprimas en el tamaño que desees. </p>
-            <div class="center">
-              <div class="precio">$250 / USD 6</div> 
-            </div>
-        </div>
-    </div>
-    <div class="material">
-        <img src="images/COGNI NIÑOS.jpg">
-        <div>
-            <h3>Tarjetas "Distorsiones cognitivas" para niños/adolescentes</h3>
-            <p> 28 tarjetas para trabajar psicoeducación de las distorsiones cognitivas o errores del pensamiento. </p>
-            <p> Exponen una explicación teórica breve adaptada para niños/adolescentes de 14 distorsiones cognitivas + 2 ejemplos en forma de "globo de pensamiento" de cada una. </p>
-            <p> Se envian en 3 formatos para que uses el que te sea más cómodo y lo imprimas en el tamaño que desees. </p>
-            <div class="center">
-                <div class="precio">$300 / USD 7</div> 
-            </div>
-        </div>
-    </div>
-    <div class="material inverso">
+            <div class="material inverso">
         <img src="images/COGNI ADULTOS.jpg">
         <div>
             <h3>Tarjetas "Distorsiones cognitivas" adolescentes/adultos</h3>
             <p>42 tarjetas para trabajar psicoeducación de las distorsiones cognitivas o errores del pensamiento.</p>
             <p> Exponen una explicación teórica breve adaptada para adolescentes/adultos de 14 distorsiones cognitivas + 2 ejemplos en forma de "globo de pensamiento" de cada una. </p>
-            <p> Se envian en 3 formatos para que uses el que te sea más cómodo y lo imprimas en el tamaño que desees. </p>
+            <p> Se envían en formato pdf. </p>
             <div class="center">
               <div class="precio">$300 / USD 7</div> 
             </div>

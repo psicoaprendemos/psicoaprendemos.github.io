@@ -21,7 +21,7 @@
             <h3>Tarjetas "¿Cómo se sintió?" para adolescentes</h3>
             <p> 40 tarjetas con frases de situaciones de la vida cotidiana en tercera persona. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
             <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares. </p>
-            <p> Son diversos ejemplos de temáticas típicas de la adolescencia donde se pregunta ¿Cómo se sintío ...? determinada persona frente a cierto evento. </p>
+            <p> Son diversos de temáticas típicas de la adolescencia donde se pregunta ¿Cómo se sintío ...? determinada persona frente a cierto evento. </p>
             <p> Se envían en formato pdf. </p>
             <div class="center">
               <div class="precio">$250/ USD 6</div> 
@@ -34,7 +34,7 @@
             <h3>Tarjetas "¿Cómo se sintió?" para adultos</h3>
             <p> 40 tarjetas de situaciones de la vida cotidiana en tercera persona. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
             <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares.</p>
-            <p> Son diversos ejemplos de temáticas típicas de la adultez donde se pregunta ¿Cómo se sintío ...? determinada persona frente a cierto evento.</p>
+            <p> Son ejemplos de temáticas típicas de la adultez donde se pregunta ¿Cómo se sintío ...? determinada persona frente a cierto evento.</p>
             <p> Se envían en formato pdf. </p>
             <div class="center">
                 <div class="precio">$250 / USD 6</div> 

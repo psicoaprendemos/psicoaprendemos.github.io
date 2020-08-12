@@ -5,7 +5,7 @@
 </div>
 <h2>¿Quién soy?</h2>
 <p>Mi nombre es Florencia Blanco, soy Lic. en Psicología y estudiante del profesorado de educación primaria. Atiendo el consultorio privado a niños/adolescentes y trabajo en escuelas.<p>
- <p>Soy amante del mundo infantil y lo lúdico, por eso uní mis ganas, conocimiento y un poco de creatividad para crear estos materiales que espero te gusten y les des mucha utilidad. Todos fueron pensandos para usar tanto de forma virtual como presencial imprimiéndolos.<p>
+ <p>Soy amante del mundo infantil y lo lúdico, por eso uní mis ganas, conocimiento y un poco de creatividad para crear estos materiales que espero te gusten y les des mucha utilidad. Todos fueron pensados para usar tanto de forma virtual como presencial imprimiéndolos.<p>
 
     
 <h2>Métodos de pago</h2>

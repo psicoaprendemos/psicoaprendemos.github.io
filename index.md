@@ -19,7 +19,7 @@
         <img src="images/COMO SE SINTIO ADO.jpg">
         <div>
             <h3>Tarjetas "¿Cómo se sintió?" para adolescentes</h3>
-            <p> 40 tarjetas para trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
+            <p> 40 tarjetas con frases de situaciones de la vida cotidiana en tercera persona. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
             <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares. </p>
             <p> Son diversos ejemplos de temáticas típicas de la adolescencia donde se pregunta ¿Cómo se sintío ...? determinada persona en cierta situación. </p>
             <p> Se envían en formato pdf. </p>
@@ -32,7 +32,7 @@
         <img src="images/COMO SE SINTIO ADU.jpg">
         <div>
             <h3>Tarjetas "¿Cómo se sintió?" para adultos</h3>
-            <p> 40 tarjetas para trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
+            <p> 40 tarjetas de situaciones de la vida cotidiana en tercera persona. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
             <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares.</p>
             <p> Son diversos ejemplos de temáticas típicas de la adultez donde se pregunta ¿Cómo se sintío ...? determinada persona en cierta situación.</p>
             <p> Se envían en formato pdf. </p>

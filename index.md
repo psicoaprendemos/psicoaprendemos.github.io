@@ -18,10 +18,9 @@
     <div class="material inverso">
         <img src="images/COMO SE SINTIO ADO.jpg">
         <div>
-            <h3>Tarjetas "¿Cómo se sintió?" para adolescentes</h3>
-            <p> 40 tarjetas con frases de situaciones de la vida cotidiana en tercera persona. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
+            <h3>Tarjetas "Preguntame" - niños</h3>
+            <p> 40 tarjetas con situaciones típicas de la niñez en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
             <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares. </p>
-            <p> Son ejemplos de temáticas de la adolescencia donde se pregunta ¿Cómo se sintío ...? determinada persona frente a cierto evento. </p>
             <p> Se envían en formato pdf. </p>
             <div class="center">
               <div class="precio">$250/ USD 6</div> 
@@ -31,10 +30,18 @@
     <div class="material">
         <img src="images/COMO SE SINTIO ADU.jpg">
         <div>
-            <h3>Tarjetas "¿Cómo se sintió?" para adultos</h3>
-            <p> 40 tarjetas de situaciones de la vida cotidiana en tercera persona. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
+            <h3>Tarjetas "Preguntame" - adolescentes</h3>
+            <p> 40 tarjetas con situaciones típicas de la adolescencia en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento..</p>
             <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares.</p>
-            <p> Son ejemplos de temáticas de la adultez donde se pregunta ¿Cómo se sintío ...? determinada persona frente a cierto evento.</p>
+            <p> Se envían en formato pdf. </p>
+            <div class="center">
+                <div class="precio">$250 / USD 6</div> 
+            </div>
+        </div>
+        <div>
+            <h3>Tarjetas "Preguntame" - adultos</h3>
+            <p> 40 tarjetas con situaciones típicas de la adultez en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
+            <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres grupales o hasta en conversaciones familiares.</p>
             <p> Se envían en formato pdf. </p>
             <div class="center">
                 <div class="precio">$250 / USD 6</div> 

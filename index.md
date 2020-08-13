@@ -16,7 +16,7 @@
 
 <h1>Materiales</h1><div class="materiales">
     <div class="material inverso">
-        <img src="images/COMO SE SINTIO ADO.jpg">
+        <img src="images/niños.jpg">
         <div>
             <h3>Tarjetas "Preguntame" - niños</h3>
             <p> 40 tarjetas con situaciones típicas de la niñez en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
@@ -27,8 +27,8 @@
             </div>
         </div>
     </div>
-    <div class="material">
-        <img src="images/COMO SE SINTIO ADU.jpg">
+    <div class="material inverso">
+        <img src="images/Ado.jpg">
         <div>
             <h3>Tarjetas "Preguntame" - adolescentes</h3>
             <p> 40 tarjetas con situaciones típicas de la adolescencia en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento..</p>
@@ -39,6 +39,8 @@
             </div>
         </div>
         <div>
+            <div class="material inverso">
+        <img src="images/Adultos.jpg">
             <h3>Tarjetas "Preguntame" - adultos</h3>
             <p> 40 tarjetas con situaciones típicas de la adultez en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
             <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres grupales o hasta en conversaciones familiares.</p>

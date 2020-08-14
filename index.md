@@ -22,7 +22,7 @@
             <h3>Tarjetas "Preguntame" - niños</h3>
             <p> 40 tarjetas con situaciones típicas de la niñez escritas en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y algunas más. </p>
             <p> Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento. Además, son excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares. </p>
-            <p> Se envían en formato pdf. </p>
+            <p> Se envían en formato pdf, jpeg y word para que utilices el que te sea más cómodo o lo imprimas en el tamaño que desees. </p>
             <div class="center">
               <div class="precio">$250/ USD 6</div> 
             </div>
@@ -34,7 +34,7 @@
             <h3>Tarjetas "Preguntame" - adolescentes</h3>
             <p> 40 tarjetas con situaciones típicas de la adolescencia escritas en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y algunas más.</p>
             <p> Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento. Ademas, son excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares.</p>
-            <p> Se envían en formato pdf. </p>
+            <p> Se envían en formato pdf, jpeg y word para que utilices el que te sea más cómodo o lo imprimas en el tamaño que desees. </p>
             <div class="center">
                 <div class="precio">$250 / USD 6</div> 
             </div>
@@ -46,7 +46,7 @@
             <h3>Tarjetas "Preguntame" - adultos</h3>
             <p> 40 tarjetas con situaciones típicas de la adultez escritas en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y algunas más. </p>
             <p> Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento. Además, son excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres grupales o hasta en conversaciones familiares.</p>
-            <p> Se envían en formato pdf. </p>
+            <p> Se envían en formato pdf, jpeg y word para que utilices el que te sea más cómodo o lo imprimas en el tamaño que desees. </p>
             <div class="center">
                 <div class="precio">$250 / USD 6</div> 
             </div>

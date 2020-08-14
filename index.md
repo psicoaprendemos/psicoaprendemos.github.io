@@ -64,6 +64,42 @@
             </div>
         </div>
     </div>
+    <div class="material">
+        <img src="images/Niños.jpg">
+        <div>
+            <h3>Tarjetas "Preguntame" - niños</h3>
+            <p> 40 tarjetas con situaciones típicas de la niñez en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
+            <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares. </p>
+            <p> Se envían en formato pdf. </p>
+            <div class="center">
+              <div class="precio">$250/ USD 6</div> 
+            </div>
+        </div>
+    </div>
+    <div class="material inverso">
+        <img src="images/Ado.jpg">
+        <div>
+            <h3>Tarjetas "Preguntame" - adolescentes</h3>
+            <p> 40 tarjetas con situaciones típicas de la adolescencia en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento..</p>
+            <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares.</p>
+            <p> Se envían en formato pdf. </p>
+            <div class="center">
+                <div class="precio">$250 / USD 6</div> 
+            </div>
+        </div>
+    </div>
+    <div class="material">
+        <img src="images/Niños.jpg">
+        <div>
+            <h3>Tarjetas "Preguntame" - niños</h3>
+            <p> 40 tarjetas con situaciones típicas de la niñez en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
+            <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares. </p>
+            <p> Se envían en formato pdf. </p>
+            <div class="center">
+              <div class="precio">$250/ USD 6</div> 
+            </div>
+        </div>
+    </div>
     <p><strong> Hay promos y descuentos comprando varios materiales.</strong></p>
     <p> "¿Cómo se sintió?" para niños + "¿Cómo se sintió?" para adolescentes + "¿Cómo se sintio?" para adultos = $690 / USD 16 </p>
 

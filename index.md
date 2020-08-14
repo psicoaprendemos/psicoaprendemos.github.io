@@ -15,7 +15,7 @@
    <p>Teléfono: (011) 1534475697<p> 
 
 <h1>Materiales</h1><div class="materiales">
-    <div class="material inverso">
+    <div class="material">
         <img src="images/Niños.jpg">
         <div>
             <h3>Tarjetas "Preguntame" - niños</h3>
@@ -39,7 +39,7 @@
             </div>
         </div>
         <div>
-            <div class="material inverso">
+            <div class="material">
         <img src="images/Adultos.jpg">
             <h3>Tarjetas "Preguntame" - adultos</h3>
             <p> 40 tarjetas con situaciones típicas de la adultez en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>

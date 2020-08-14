@@ -101,7 +101,8 @@
         </div>
     </div>
     <p><strong> Hay promos y descuentos comprando varios materiales.</strong></p>
-    <p> "¿Cómo se sintió?" para niños + "¿Cómo se sintió?" para adolescentes + "¿Cómo se sintio?" para adultos = $690 / USD 16 </p>
+    <p> "Preguntame" para niños + "Pregunta" para adolescentes = $450 / USD 11 </p>
+    <p> "Preguntame" para niños + "Pregunta" para adolescentes + "Preguntame" para adultos = $690 / USD 16 </p>
 
 </div>
 

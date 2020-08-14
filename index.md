@@ -20,8 +20,8 @@
         <img src="images/Niños.jpg">
         <div>
             <h3>Tarjetas "Preguntame" - niños</h3>
-            <p> 40 tarjetas con situaciones típicas de la niñez en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
-            <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares. </p>
+            <p> 40 tarjetas con situaciones típicas de la niñez escritas en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y algunas más. </p>
+            <p> Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento. Además, son excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares. </p>
             <p> Se envían en formato pdf. </p>
             <div class="center">
               <div class="precio">$250/ USD 6</div> 
@@ -32,8 +32,8 @@
         <img src="images/Ado.jpg">
         <div>
             <h3>Tarjetas "Preguntame" - adolescentes</h3>
-            <p> 40 tarjetas con situaciones típicas de la adolescencia en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento..</p>
-            <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares.</p>
+            <p> 40 tarjetas con situaciones típicas de la adolescencia escritas en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y algunas más.</p>
+            <p> Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento. Ademas, son excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares.</p>
             <p> Se envían en formato pdf. </p>
             <div class="center">
                 <div class="precio">$250 / USD 6</div> 
@@ -44,8 +44,8 @@
         <img src="images/Adultos.jpg">
         <div>
             <h3>Tarjetas "Preguntame" - adultos</h3>
-            <p> 40 tarjetas con situaciones típicas de la adultez en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
-            <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres grupales o hasta en conversaciones familiares.</p>
+            <p> 40 tarjetas con situaciones típicas de la adultez escritas en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y algunas más. </p>
+            <p> Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento. Además, son excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres grupales o hasta en conversaciones familiares.</p>
             <p> Se envían en formato pdf. </p>
             <div class="center">
                 <div class="precio">$250 / USD 6</div> 
@@ -57,7 +57,7 @@
         <div>
             <h3>Tarjetas "Distorsiones cognitivas" adolescentes/adultos</h3>
             <p>42 tarjetas para trabajar psicoeducación de las distorsiones cognitivas o errores del pensamiento.</p>
-            <p> Exponen una explicación teórica breve adaptada para adolescentes/adultos de 14 distorsiones cognitivas + 2 ejemplos en forma de "globo de pensamiento" de cada una. </p>
+            <p> Exponen una explicación teórica adaptada para adolescentes/adultos de 14 distorsiones cognitivas + 2 ejemplos en forma de "globo de pensamiento" de cada una. </p>
             <p> Se envían en formato pdf. </p>
             <div class="center">
               <div class="precio">$300 / USD 7</div> 

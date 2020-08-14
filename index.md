@@ -52,55 +52,8 @@
             </div>
         </div>
     </div>
-    <div class="material inverso">
-        <img src="images/COGNI ADULTOS.jpg">
-        <div>
-            <h3>Tarjetas "Distorsiones cognitivas" adolescentes/adultos</h3>
-            <p>42 tarjetas para trabajar psicoeducación de las distorsiones cognitivas o errores del pensamiento.</p>
-            <p> Exponen una explicación teórica adaptada para adolescentes/adultos de 14 distorsiones cognitivas + 2 ejemplos en forma de "globo de pensamiento" de cada una. </p>
-            <p> Se envían en formato pdf. </p>
-            <div class="center">
-              <div class="precio">$300 / USD 7</div> 
-            </div>
-        </div>
-    </div>
-    <div class="material">
-        <img src="images/Niños.jpg">
-        <div>
-            <h3>Tarjetas "Preguntame" - niños</h3>
-            <p> 40 tarjetas con situaciones típicas de la niñez en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
-            <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares. </p>
-            <p> Se envían en formato pdf. </p>
-            <div class="center">
-              <div class="precio">$250/ USD 6</div> 
-            </div>
-        </div>
-    </div>
-    <div class="material inverso">
-        <img src="images/Ado.jpg">
-        <div>
-            <h3>Tarjetas "Preguntame" - adolescentes</h3>
-            <p> 40 tarjetas con situaciones típicas de la adolescencia en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento..</p>
-            <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares.</p>
-            <p> Se envían en formato pdf. </p>
-            <div class="center">
-                <div class="precio">$250 / USD 6</div> 
-            </div>
-        </div>
-    </div>
-    <div class="material">
-        <img src="images/Niños.jpg">
-        <div>
-            <h3>Tarjetas "Preguntame" - niños</h3>
-            <p> 40 tarjetas con situaciones típicas de la niñez en tercera persona + preguntas modelo a contestar: ¿Cómo se sintió?, ¿Qué hizo?, ¿Qué pensó? y más. Sirven trabajar habilidades sociales, resolución de conflictos y estrategias de afrontamiento.</p>
-            <p> Excelentes para psicoeducación, para sesiones lúdicas y distendidas, para fortalecer el vínculo terapéutico, para talleres en escuelas o hasta en conversaciones familiares. </p>
-            <p> Se envían en formato pdf. </p>
-            <div class="center">
-              <div class="precio">$250/ USD 6</div> 
-            </div>
-        </div>
-    </div>
-    <p><strong> Hay promos y descuentos comprando varios materiales.</strong></p>
+    <h3>¡Próximamente ... más materiales!</h3>
+        <p><strong> Hay promos y descuentos comprando varios materiales.</strong></p>
     <p> "Preguntame" para niños + adolescentes = $450 / USD 11 </p>
     <p> "Preguntame" para niños + adolescentes +  adultos = $690 / USD 16 </p>
 
